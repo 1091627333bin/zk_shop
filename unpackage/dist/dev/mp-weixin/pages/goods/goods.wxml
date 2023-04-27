@@ -1,0 +1,1 @@
+<view class="back"><goods vue-id="576f0adc-1" goodsList="{{goodsList}}" bind:__l="__l"></goods><view hidden="{{!(flag)}}" class="over">-----我是有底线的-----</view></view>
